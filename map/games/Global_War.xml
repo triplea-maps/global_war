@@ -2643,11 +2643,11 @@
     </attachment>
     <attachment name="territoryAttachment" attachTo="Evenkia" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="0"/>
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Chukotka" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="0"/>
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Bermuda" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="0"/>
@@ -3008,11 +3008,11 @@
     </attachment>
     <attachment name="territoryAttachment" attachTo="Yamalia" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="0"/>
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Taymyria" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="0"/>
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Palmyra Atoll" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="0"/>
