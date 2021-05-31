@@ -1,0 +1,4 @@
+map_name: global_war
+games:
+- {game_name: Global War v3 Rules, file_name: Global_War_v3.xml}
+- {game_name: Global War, file_name: Global_War.xml}
